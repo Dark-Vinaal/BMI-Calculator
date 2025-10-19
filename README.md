@@ -1,5 +1,3 @@
----
-
 # BMI Calculator - Project
 
 A responsive, web-based BMI calculator featuring light and dark themes, built with HTML, CSS, and JavaScript.
