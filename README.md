@@ -1,3 +1,5 @@
+---
+
 # BMI Calculator - Project
 
 A responsive, web-based BMI calculator featuring light and dark themes, built with HTML, CSS, and JavaScript.
@@ -24,9 +26,9 @@ The application follows a straightforward and efficient process :
 
   > (e.g., Underweight, Normal Weight, Overweight, Obese).
 
-  This crucial interpretation makes the result meaningful to the user.User-Friendly
+  This crucial interpretation makes the result meaningful to the user.
 
-- Display: The final result, including both the numerical BMI value and the interpretive category, is displayed prominently in the user interface
+- User-Friendly Display: The final result, including both the numerical BMI value and the interpretive category, is displayed prominently in the user interface
 
 ---
 
